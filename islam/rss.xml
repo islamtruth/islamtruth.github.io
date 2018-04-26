@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Islam on Truth about Islam</title>
+    <link>http://islamtruth.org/islam/</link>
+    <description>Recent content in Islam on Truth about Islam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>mustafa@islamtruth.org (Mustafa Khan)</managingEditor>
+    <webMaster>mustafa@islamtruth.org (Mustafa Khan)</webMaster>
+    <copyright>&amp;copy; Mustafa Khan</copyright>
+    <lastBuildDate>Wed, 07 Mar 2018 02:16:58 -0800</lastBuildDate>
+    
+	<atom:link href="http://islamtruth.org/islam/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>History</title>
+      <link>http://islamtruth.org/islam/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/islam/history/</guid>
+      <description>Where did Islam come from? That is, indeed, a good question. And a difficult one to answer. There are barely any sources from the early time of Islam, but we do know a lot more about what happened after that.</description>
+    </item>
+    
+    <item>
+      <title>Vocabulary</title>
+      <link>http://islamtruth.org/islam/vocab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/islam/vocab/</guid>
+      <description>As islam is heavily based on the arabic language, which is not widely known outside of islam countries, I have listed a few of the slang that muslims would be familiar with.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Truth about Islam</title>
+    <link>http://islamtruth.org/post/</link>
+    <description>Recent content in Posts on Truth about Islam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>mustafa@islamtruth.org (Mustafa Khan)</managingEditor>
+    <webMaster>mustafa@islamtruth.org (Mustafa Khan)</webMaster>
+    <copyright>&amp;copy; Mustafa Khan</copyright>
+    <lastBuildDate>Thu, 19 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://islamtruth.org/post/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Site!</title>
+      <link>http://islamtruth.org/post/new-site/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/post/new-site/</guid>
+      <description>Hey all,
+I just got this new site going. I hope it will receive the warm welcome it deserves. It&amp;rsquo;s not actually that easy to do all of this stuff, you know &amp;ndash; researching everything, documenting the sources, finding images and videos to link to, making everything look pretty.</description>
+    </item>
+    
+  </channel>
+</rss>

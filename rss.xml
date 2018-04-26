@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Islam on Truth about Islam</title>
+    <link>http://islamtruth.org/</link>
+    <description>Recent content in About Islam on Truth about Islam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>mustafa@islamtruth.org (Mustafa Khan)</managingEditor>
+    <webMaster>mustafa@islamtruth.org (Mustafa Khan)</webMaster>
+    <copyright>&amp;copy; Mustafa Khan</copyright>
+    <lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://islamtruth.org/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>History</title>
+      <link>http://islamtruth.org/islam/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/islam/history/</guid>
+      <description>Where did Islam come from? That is, indeed, a good question. And a difficult one to answer. There are barely any sources from the early time of Islam, but we do know a lot more about what happened after that.</description>
+    </item>
+    
+    <item>
+      <title>Movies</title>
+      <link>http://islamtruth.org/resource/movies/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/resource/movies/</guid>
+      <description>Unfortunately, in developed, wester nations, people don&amp;rsquo;t really know much about Islam. This is a problem, because it means that most people will have a knowledge of Islam that stems from either Islamic preachers, which do not present a complete and accurate picture, or from the news, which doesn&amp;rsquo;t represent Islam as a whole.</description>
+    </item>
+    
+    <item>
+      <title>Mustafa</title>
+      <link>http://islamtruth.org/about/mustafa/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/about/mustafa/</guid>
+      <description>Hey, I&amp;rsquo;m Mustafa and I&amp;rsquo;m the author behind all of the content (except for the images and videos) of everything you can see on this website.</description>
+    </item>
+    
+    <item>
+      <title>Vocabulary</title>
+      <link>http://islamtruth.org/islam/vocab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/islam/vocab/</guid>
+      <description>As islam is heavily based on the arabic language, which is not widely known outside of islam countries, I have listed a few of the slang that muslims would be familiar with.</description>
+    </item>
+    
+    <item>
+      <title>New Site!</title>
+      <link>http://islamtruth.org/post/new-site/</link>
+      <pubDate>Thu, 19 Apr 2018 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/post/new-site/</guid>
+      <description>Hey all,
+I just got this new site going. I hope it will receive the warm welcome it deserves. It&amp;rsquo;s not actually that easy to do all of this stuff, you know &amp;ndash; researching everything, documenting the sources, finding images and videos to link to, making everything look pretty.</description>
+    </item>
+    
+    <item>
+      <title>401 Unauthorized</title>
+      <link>http://islamtruth.org/401/</link>
+      <pubDate>Thu, 23 Mar 2017 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/401/</guid>
+      <description>A user name and password is required.
+You&amp;rsquo;ve attempted to visit a section of the website reserved for authorized users.</description>
+    </item>
+    
+    <item>
+      <title>Funny</title>
+      <link>http://islamtruth.org/resource/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/resource/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online</title>
+      <link>http://islamtruth.org/resource/online/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/resource/online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slavery</title>
+      <link>http://islamtruth.org/controversy/slavery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/controversy/slavery/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

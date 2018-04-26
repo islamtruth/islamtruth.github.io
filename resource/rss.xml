@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Truth about Islam</title>
+    <link>http://islamtruth.org/resource/</link>
+    <description>Recent content in Resources on Truth about Islam</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>mustafa@islamtruth.org (Mustafa Khan)</managingEditor>
+    <webMaster>mustafa@islamtruth.org (Mustafa Khan)</webMaster>
+    <copyright>&amp;copy; Mustafa Khan</copyright>
+    <lastBuildDate>Wed, 07 Mar 2018 02:16:58 -0800</lastBuildDate>
+    
+	<atom:link href="http://islamtruth.org/resource/rss.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Movies</title>
+      <link>http://islamtruth.org/resource/movies/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/resource/movies/</guid>
+      <description>Unfortunately, in developed, wester nations, people don&amp;rsquo;t really know much about Islam. This is a problem, because it means that most people will have a knowledge of Islam that stems from either Islamic preachers, which do not present a complete and accurate picture, or from the news, which doesn&amp;rsquo;t represent Islam as a whole.</description>
+    </item>
+    
+    <item>
+      <title>Funny</title>
+      <link>http://islamtruth.org/resource/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/resource/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online</title>
+      <link>http://islamtruth.org/resource/online/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>mustafa@islamtruth.org (Mustafa Khan)</author>
+      <guid>http://islamtruth.org/resource/online/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

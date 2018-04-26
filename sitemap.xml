@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://islamtruth.org/islam/history/</loc>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/resource/movies/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/about/mustafa/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/islam/vocab/</loc>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/post/new-site/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/controversy/</loc>
+    <lastmod>2018-03-07T02:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/islam/</loc>
+    <lastmod>2018-03-07T02:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/resource/</loc>
+    <lastmod>2018-03-07T02:16:58-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/401/</loc>
+    <lastmod>2017-03-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/about/</loc>
+    <lastmod>2018-03-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/resource/images/</loc>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/resource/online/</loc>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/post/</loc>
+    <lastmod>2018-04-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/controversy/slavery/</loc>
+  </url>
+  
+  <url>
+    <loc>http://islamtruth.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
